@@ -3,6 +3,10 @@ img{
   align-self: center;
 }
 
+p{
+    padding-bottom: 2px;
+}
+
 .card{
   border: rgb(103, 102, 105) 3px solid;
   display: flex;  
@@ -22,15 +26,6 @@ img{
     border-radius: 2.5rem;
 }
 
-.row{
-  display: flex;  
-  flex: 1;
-  flex-direction: row;
-  margin: auto;
-  margin-top: 1%;
-  justify-content: center;
-  padding:20px;
-}
 
 .container{
   justify-content: center;
