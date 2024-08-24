@@ -7,10 +7,19 @@ img{
   border: rgb(103, 102, 105) 3px solid;
   display: flex;  
   flex-direction: column;
+  box-shadow: inset .2em .2em .2em .2em grey;
   margin-left:5%;
   margin-right:5%;
   margin-top: 1%;
   margin-bottom: 1%;
+}
+
+.round-card{
+    border-radius: 2.5rem !important;
+}
+
+.card-image-rounded{
+    border-radius: 2.5rem;
 }
 
 .row{
