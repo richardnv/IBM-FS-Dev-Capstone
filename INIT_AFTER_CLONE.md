@@ -28,3 +28,5 @@ cd /home/project/IBM-FS-Dev-Capstone/server/database
 docker build . -t nodeapp
 docker-compose up
 
+** 8/25/2024
+** Using project "sn-labs-richardnv" from context named "richardnv-context" on server "https://c1.us-east.containers.cloud.ibm.com:22916". **
