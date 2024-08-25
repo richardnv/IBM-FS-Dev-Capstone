@@ -1,4 +1,9 @@
-** set up and initialize the dev environment **
+** First things first git config **
+git config --global user.email "richardnv@gmail.com"
+git config --global user.name "richardnv"
+
+
+** set up and initialize the dev environment and admin site**
 '''
 cd /home/project/IBM-FS-Dev-Capstone/server
 
@@ -26,7 +31,7 @@ npm run build
 
 '''
 
-** set up and initialize the mongodb database and nodejs API **
+** build the docker images for the mongodb and node apps **
 '''
 cd /home/project/IBM-FS-Dev-Capstone/server/database
 
