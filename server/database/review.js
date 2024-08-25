@@ -1,3 +1,5 @@
+use 'esvesion: 6'
+
 const mongoose = require('mongoose');
 
 const Schema = mongoose.Schema;
